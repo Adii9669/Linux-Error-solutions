@@ -2,7 +2,7 @@
 The problem i Faced after first time using the debian ,basically for my learning to 
 
 
-1.Debian LockScreen Not working (super/window + L):<h3>1.Debian LockScreen Not working (super/window + L):</h3>
+<h3>1.Debian LockScreen Not working (super/window + L):</h3>
 
 In-short the working cammand for me:
 Once my "Lock" menu item disappeared and at the same moment I couldn't lock the screen either. Then I checked the Gnome settings:
@@ -15,7 +15,7 @@ and I found that somehow option "disable-lock-screen" was set to true, which hid
 
 and the "Lock" item is immediately returned and Super + L starts working again.
 
-Main-cause:
+<h3>Main-cause:</h3>
 Prloblem I faced when i switched to ssdm "Display Manner"
 
 1.switch back to gdm3 from ssdm, ssdm doesn't work for me.
