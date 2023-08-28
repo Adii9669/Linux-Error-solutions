@@ -33,3 +33,12 @@ After all it is needed to rebooting the system.
               
        sudo apt-get install gnome-screensaver
        gnome-screensaver-command -l
+
+
+<h3>When Visual Studio Shows This Error while running a code in Vs code terminal</h3>
+<p>568 preload-host-spawn-strategy] Warning: waitpid override ignores groups</p>
+     <h4>Copy this command in settings.json files in visual studio </h4> 
+     
+       "terminal.integrated.env.linux": {
+        "LD_PRELOAD": null,
+    }
