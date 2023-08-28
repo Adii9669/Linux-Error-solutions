@@ -2,7 +2,7 @@
 The problem i Faced after first time using the debian ,basically for my learning to 
 
 
-<h2>1.,</h2><h3>Debian LockScreen Not working (super/window + L):</h3>
+<h2>1.</h2><h3>Debian LockScreen Not working (super/window + L):</h3>
 
 In-short the working cammand for me:
 Once my "Lock" menu item disappeared and at the same moment I couldn't lock the screen either. Then I checked the Gnome settings:
@@ -35,7 +35,7 @@ After all it is needed to rebooting the system.
        gnome-screensaver-command -l
 
 
-<h2>2.,</h2><h3>When Visual Studio Shows This Error while running a code in Vs code terminal</h3>
+<h2>2.</h2><h3>When Visual Studio Shows This Error while running a code in Vs code terminal</h3>
 <p>568 preload-host-spawn-strategy] Warning: waitpid override ignores groups</p>
      <h4>Copy this command in settings.json files in visual studio </h4> 
      
