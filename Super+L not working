@@ -1,0 +1,2 @@
+To Check:  gsettings list-recursively | grep lockdown
+To Update: gsettings set org.gnome.desktop.lockdown disable-lock-screen 'false'
