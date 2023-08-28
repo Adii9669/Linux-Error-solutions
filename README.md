@@ -2,7 +2,7 @@
 The problem i Faced after first time using the debian ,basically for my learning to 
 
 
-1.Debian LockScreen Not working (super/window + L):
+1.Debian LockScreen Not working (super/window + L):<h3>1.Debian LockScreen Not working (super/window + L):</h3>
 
 In-short the working cammand for me:
 Once my "Lock" menu item disappeared and at the same moment I couldn't lock the screen either. Then I checked the Gnome settings:
