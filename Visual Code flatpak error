@@ -1,2 +1,6 @@
 568 preload-host-spawn-strategy] Warning: waitpid override ignores groups
+code to copy in settings.json
 
+"terminal.integrated.env.linux": {
+    "LD_PRELOAD": null,
+}
