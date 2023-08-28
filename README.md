@@ -6,11 +6,11 @@ The problem i Faced after first time using the debian ,basically for my learning
 
 In-short the working cammand for me:
 Once my "Lock" menu item disappeared and at the same moment I couldn't lock the screen either. Then I checked the Gnome settings:
-gsettings list-recursively | grep lockdown
+       "gsettings list-recursively | grep lockdown"
 
 and I found that somehow option "disable-lock-screen" was set to true, which hides the menu item and prevents the screen from locking. Then I set it to false again:
 
-gsettings set org.gnome.desktop.lockdown disable-lock-screen 'false'
+        gsettings set org.gnome.desktop.lockdown disable-lock-screen 'false'
 
 and the "Lock" item is immediately returned and Super + L starts working again.
 
