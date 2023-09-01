@@ -42,3 +42,8 @@ After all it is needed to rebooting the system.
        "terminal.integrated.env.linux": {
         "LD_PRELOAD": null,
     }
+
+  <h2>For Default cursor theme not changing </h2>
+  <p>install the theme by using  aptitude </p>  
+  
+    sudo update-alternatives --config theme-name-you-installed
