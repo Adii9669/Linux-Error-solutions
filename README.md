@@ -47,3 +47,7 @@ After all it is needed to rebooting the system.
   <p>install the theme by using  aptitude </p>  
   
     sudo update-alternatives --config theme-name-you-installed
+
+
+<h2>One more day i crashed my linux again it's the 3 time and i'll keepworking till i fully learn linux  on day(Sep-2 2023)</h2>
+<p>I was customizing my gnome desktop and i think i did'nt get my hand on gnome that well firstly now i'll be  leaerning it now and then go for some other stuffs </p>
